@@ -84,6 +84,14 @@ button {
 }
 
 /* Heading */
+.title-hidden {
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
 .title-3,
 .label[for="newTask"] {
   color: #333;
